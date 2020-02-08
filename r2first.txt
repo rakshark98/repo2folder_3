@@ -1,1 +1,2 @@
 hello my name is xyz
+this is a simple text file and can be edited in notepad.
